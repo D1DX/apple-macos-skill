@@ -1,7 +1,7 @@
 ---
 name: apple
 description: Control Apple Notes, Reminders, and Voice Memos via AppleScript and SQLite
-user_invocable: true
+user-invocable: true
 triggers:
   - apple notes
   - apple reminders
