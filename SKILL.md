@@ -1,6 +1,6 @@
 ---
-name: apple
-description: Control Apple Notes, Reminders, Voice Memos, and Shortcuts via AppleScript and SQLite
+name: apple-macos
+description: Control Apple Notes, Reminders, Voice Memos, and Shortcuts on macOS via AppleScript and SQLite. Triggers on "apple notes", "apple reminders", "apple shortcuts", "voice memos", "macOS automation".
 user-invocable: true
 triggers:
   - apple notes

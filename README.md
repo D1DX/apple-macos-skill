@@ -1,4 +1,4 @@
-# Apple Skill
+# Apple macOS Skill
 
 [![Author](https://img.shields.io/badge/Author-Daniel_Rudaev-000000?style=flat)](https://github.com/daniel-rudaev)
 [![Studio](https://img.shields.io/badge/Studio-D1DX-000000?style=flat)](https://d1dx.com)
